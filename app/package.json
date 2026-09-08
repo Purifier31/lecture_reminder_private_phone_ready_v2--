@@ -1,0 +1,15 @@
+{
+  "name": "lecture-reminder-phone-ready",
+  "version": "2.1.0",
+  "private": true,
+  "description": "Private per-browser lecture reminders with Web Push, SQLite schedule jobs and an always-on Node server.",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "web-push": "^3.6.7",
+    "better-sqlite3": "^12.4.1"
+  }
+}

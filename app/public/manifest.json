@@ -1,0 +1,17 @@
+{
+  "name": "Lecture Reminder",
+  "short_name": "Lectures",
+  "start_url": "/",
+  "id": "/",
+  "display": "standalone",
+  "background_color": "#f3f7f4",
+  "theme_color": "#176b3a",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
